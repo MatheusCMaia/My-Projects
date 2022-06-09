@@ -1,2 +1,3 @@
-# URI---Beecrowd
-Resoluções de questões do beecrowd - Python
+# My Projects
+# This repository has the function of showing all my independent projects during my academic period
+
